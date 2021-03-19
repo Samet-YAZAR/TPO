@@ -1,4 +1,4 @@
-package com.olokos;
+package com.samet;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
