@@ -1,3 +1,0 @@
-file:///P:/FTP(Public)/edek/TPO/lectures/lectures-html-en/01-NIO/01-NIO.html
-Non-blocking I/O section 8
-mappedbytebuffer
